@@ -1,0 +1,32 @@
+[15-Aug-2021 04:46:19 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /media/impilorevival/public_html/wp-includes/functions.php on line 8
+[15-Aug-2021 04:46:19 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /media/impilorevival/public_html/wp-includes/functions.php on line 8
+[15-Aug-2021 04:46:19 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /media/impilorevival/public_html/wp-includes/functions.php on line 8
+[15-Aug-2021 04:46:19 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /media/impilorevival/public_html/wp-includes/functions.php on line 8
+[08-Oct-2022 21:49:30 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /media/impilorevival/public_html/wp-includes/functions.php on line 8
+[08-Oct-2022 21:49:30 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /media/impilorevival/public_html/wp-includes/functions.php on line 8
+[08-Oct-2022 21:49:30 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /media/impilorevival/public_html/wp-includes/functions.php on line 8
+[08-Oct-2022 21:49:30 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /media/impilorevival/public_html/wp-includes/functions.php on line 8
+[09-Oct-2022 11:30:04 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /media/impilorevival/public_html/wp-includes/functions.php on line 8
+[09-Oct-2022 11:30:04 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /media/impilorevival/public_html/wp-includes/functions.php on line 8
+[09-Oct-2022 11:30:04 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /media/impilorevival/public_html/wp-includes/functions.php on line 8
+[09-Oct-2022 11:30:04 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /media/impilorevival/public_html/wp-includes/functions.php on line 8
+[29-Nov-2022 01:22:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /media/impilorevival/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /media/impilorevival/public_html/wp-includes/class.wp-dependencies.php on line 11
+[29-Nov-2022 01:23:51 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /media/impilorevival/public_html/wp-includes/compat.php on line 342
+[29-Nov-2022 01:23:51 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /media/impilorevival/public_html/wp-includes/compat.php on line 342
+[29-Nov-2022 01:23:51 UTC] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /media/impilorevival/public_html/wp-includes/compat.php on line 342
+[29-Nov-2022 01:23:51 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/sodium_compat/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /media/impilorevival/public_html/wp-includes/compat.php on line 342
+[29-Nov-2022 03:08:21 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /media/impilorevival/public_html/wp-includes/compat.php on line 342
+[29-Nov-2022 03:08:21 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /media/impilorevival/public_html/wp-includes/compat.php on line 342
+[29-Nov-2022 03:08:21 UTC] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /media/impilorevival/public_html/wp-includes/compat.php on line 342
+[29-Nov-2022 03:08:21 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/sodium_compat/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /media/impilorevival/public_html/wp-includes/compat.php on line 342
+[01-Dec-2022 14:05:44 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /media/impilorevival/public_html/wp-includes/compat.php on line 342
+[01-Dec-2022 14:05:44 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /media/impilorevival/public_html/wp-includes/compat.php on line 342
+[01-Dec-2022 14:05:44 UTC] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /media/impilorevival/public_html/wp-includes/compat.php on line 342
+[01-Dec-2022 14:05:44 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/sodium_compat/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /media/impilorevival/public_html/wp-includes/compat.php on line 342
+[01-Dec-2022 14:09:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /media/impilorevival/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /media/impilorevival/public_html/wp-includes/class.wp-dependencies.php on line 11

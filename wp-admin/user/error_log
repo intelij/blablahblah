@@ -1,0 +1,8 @@
+[29-Nov-2022 01:24:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /media/impilorevival/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /media/impilorevival/public_html/wp-admin/user/menu.php on line 10
+[01-Dec-2022 14:09:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /media/impilorevival/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /media/impilorevival/public_html/wp-admin/user/menu.php on line 10
